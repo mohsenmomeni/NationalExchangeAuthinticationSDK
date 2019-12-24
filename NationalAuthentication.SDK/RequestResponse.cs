@@ -1,5 +1,4 @@
 ﻿using RestSharp;
-using Soshyant.Repo.Common;
 using System.Collections.Generic;
 
 namespace NationalAuthorization.SDK

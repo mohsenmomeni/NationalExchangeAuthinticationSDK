@@ -1,7 +1,4 @@
-﻿using Newtonsoft.Json;
-using RestSharp;
-using Soshyant.Repo.Common;
-using System;
+﻿using RestSharp;
 using System.Collections.Generic;
 
 namespace NationalAuthorization.SDK

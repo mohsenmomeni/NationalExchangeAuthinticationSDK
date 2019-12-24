@@ -1,10 +1,4 @@
-﻿using Newtonsoft.Json;
-using RestSharp;
-using Soshyant.Repo.Common;
-using System;
-using System.Collections.Generic;
-
-namespace NationalAuthorization.SDK
+﻿namespace NationalAuthorization.SDK
 {
     public class SejamRegistrar
     {

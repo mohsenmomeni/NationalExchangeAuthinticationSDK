@@ -155,7 +155,7 @@ namespace NationalAuthorization.Tests
             AssertError(result);
         }
 
-        [Fact]
+        [Fact(Skip ="Need OTP")]
         public void GetKYC_Of_ThirdPartyProvider_Should_SendKYC_When_UniqueIdentifierAndOtpIsValid()
         {
             //Arrange-Send OTPRequest Manual
